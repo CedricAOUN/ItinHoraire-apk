@@ -1,6 +1,6 @@
 ## ItinHoraire
 
-A react-native with expo app, querying this live server: [server](https://github.com/CedricAOUN/ItinHoraire-backend).
+A simple react-native with expo app, querying this live server: [server](https://github.com/CedricAOUN/ItinHoraire-backend). It will display live time information about transport systems in your area.
 
 
 ### Installation:
